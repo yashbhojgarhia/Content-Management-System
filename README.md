@@ -8,6 +8,7 @@ There is a .sql file named Database.sql.
 Import that to your phpmyadmin section.
 
 # View It's Features
+Open the index file via your localhost.
 Use username - yashbhojgarhia and password - batman on the left side at the login widget.
 Now you will be logged in as an admin.
 Click almost every option available and explore the website in it's full capacity.
