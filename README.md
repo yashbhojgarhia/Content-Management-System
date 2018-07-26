@@ -5,7 +5,7 @@ It manages Content and has a seperate admin and subscriber features.
 # Getting Started
 To view this in it's full capacity, you have to locally host MySQL through xampp or any of the similar.
 There is a .sql file named Database.sql.
-Import that to your phpmyadmin section.
+Import that to a database named cms on your phpmyadmin section.
 
 # View It's Features
 Open the index file via your localhost.
